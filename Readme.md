@@ -35,5 +35,7 @@ Indicaciones:
 F indica forward, + giro a la derecha , - giro a la izquierda y B atrás. Demás literales serán utilizadas como constantes.
 Las reglas deben estar escritas de la forma A=AB++A.
 
+Fernando Cruz Pineda
+
  Referencias
  Prusinkiewicz, P., & Hanan, J. (2016). Lindenmayer Systems, Fractals and Plants. Springer International Publishing. pp. 23-51.
